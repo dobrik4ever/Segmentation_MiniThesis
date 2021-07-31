@@ -1,0 +1,32 @@
+Short description of the project. Aims. 
+Contact information. 
+
+
+Zusammenfassung aller relevanten Informationen zum Projekt
+
+<Titel>
+Musterprojekt
+
+<Kurzbeschreibung> 
+Standardisierte Strukturierungen für Projekte schaffen
+
+<Verantwortlicher>
+Sebastian Schürmann
+
+<Beteiligte>
+Dominik Schneidereit
+Lucas Kreiß
+
+<erstellt am>
+29.10.2020
+
+<Phase>
+Projektidee
+
+<Ausgangssituation>
+Es gibt keine einheitliche Struktur für die Durchführung von Projekten und Datenablage. Keine Vorläuferprojekte. 
+
+<Ziele>
+1. Eine Struktur vorgeben, die eine vollständige Dokumentation erleichtert. 
+2. Anderen das Auffinden und Nachvollziehen von Daten erleichtern. 
+3. Einen zentralen Ort schaffen, an dem Informationen zu finden sind. 
