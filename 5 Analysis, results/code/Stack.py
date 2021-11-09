@@ -4,6 +4,7 @@ import numpy as np
 import os
 import plotly.graph_objects as go
 
+
 class Stack:
     def __init__(self, path):
         self.path = path
