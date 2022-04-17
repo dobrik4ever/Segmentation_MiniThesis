@@ -2,9 +2,14 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+# Garbage
+#
 # C extensions
 *.so
+# Large stacks
+4 Raw data/good stacks/130416_Contr19_01/
+4 Raw data/good stacks/130716_339N_01/
+4 Raw data/good stacks/140321_01/
 
 # Distribution / packaging
 .Python
@@ -128,3 +133,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
+*Thumbs.db
